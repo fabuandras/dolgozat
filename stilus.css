@@ -1,0 +1,67 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("kepek/black.png");
+}
+
+.tarolo{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    max-width: 900px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #4d4d4d;
+    margin-top: 0;
+    padding: 12pt 2pt 12pt 2pt;
+    border-bottom: 2pt solid grey;
+}
+
+.nav a{
+    color: white;
+    margin-top: 0pt;
+    padding: 12pt 15pt 12pt 15pt;
+    text-decoration: none;
+    text-align: center;
+    border-right: 2pt solid gray;
+}
+
+.nav a:hover {
+    background-color: orange;
+}
+
+.fejlec{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+}
+
+.lablec{
+    background-color: orange;
+    text-align: center;
+    margin-top: 0pt;
+}
+
+.tartalom{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    padding: 5pt 5pt 20pt 10pt;
+}
+
+.fejlec img{
+    width: 100%;
+}
+
+.tartalom img{
+    max-width: 200pt;
+    float: right;
+    padding: 10pt 15pt 10pt 10pt;
+}
+
+.stopfloat{
+    clear: both;
+}
